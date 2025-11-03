@@ -4,7 +4,9 @@ A complete Flutter learning journey with step-by-step lessons.
 
 ## Course Structure
 - Cours 01 - Introduction to Flutter
-- Cours 02 - Coming soon...
+- Cours 02 - Famous widget
+- Cours 03 - [row + column widget]
+- Cours 04 - [padding + materialApp widget] 
 
 ## How to Use
 Each folder contains a complete Flutter project for that lesson.
