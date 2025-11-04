@@ -8,7 +8,8 @@ A complete Flutter learning journey with step-by-step lessons.
 - Cours 03 - [row + column widget]
 - Cours 04 - [padding + materialApp widget] 
 - Cours 05 - [Positioned + Stack Widget] 
-- Cours 06 - [Wrap + ElevatedButton Widget] 
+- Cours 06 - [Wrap + ElevatedButton Widget]
+- Cours 07 - [fontFamily + ClipRRect  +  Image.asset + Image.network + CircleAvatar Widget] 
 
 ## How to Use
 Each folder contains a complete Flutter project for that lesson.
