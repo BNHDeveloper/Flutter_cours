@@ -11,7 +11,8 @@ A complete Flutter learning journey with step-by-step lessons.
 - Cours 06 - [Wrap + ElevatedButton Widget]
 - Cours 07 - [fontFamily + ClipRRect  +  Image.asset + Image.network + CircleAvatar Widget] 
 - Cours 08 - [SVG  Icon Widget] 
-- Cours 09 - [Exercice] 
+- Cours 09 - [Exercice]
+- Cours 10 - [TextField Widget] 
 
 ## How to Use
 Each folder contains a complete Flutter project for that lesson.
