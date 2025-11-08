@@ -13,6 +13,7 @@ A complete Flutter learning journey with step-by-step lessons.
 - Cours 08 - [SVG  Icon Widget] 
 - Cours 09 - [Exercice]
 - Cours 10 - [TextField Widget] 
+- Cours 11 - [Routes + floatingActionButton + Navigator Widget] 
 
 ## How to Use
 Each folder contains a complete Flutter project for that lesson.
