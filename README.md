@@ -14,6 +14,7 @@ A complete Flutter learning journey with step-by-step lessons.
 - Cours 09 - [Exercice]
 - Cours 10 - [TextField Widget] 
 - Cours 11 - [Routes + floatingActionButton + Navigator Widget] 
+- Cours 12 - [GestureDetector + Divider Widget] 
 
 ## How to Use
 Each folder contains a complete Flutter project for that lesson.
